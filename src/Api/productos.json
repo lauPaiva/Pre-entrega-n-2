@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "stock": "3",
+        "categoria":"asus",
+        "nombre": "ASUS ROG",
+        "modelo": "ROG Zephyrus G14",
+        "calificacion": "8/10",
+        "valor": "U$S 650",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_977491-MLU45127468847_032021-O.webp",
+        "reseña": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce elementum rhoncus dui, in ultrices dolor tincidunt a. Phasellus consectetur sed nisl sit amet vulputate. Etiam commodo mauris et tellus vestibulum, ut commodo est condimentum. Sed non sem vel neque posuere dignissim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin non dui massa. Cras id mollis dui, nec sollicitudin orci. Donec id sem placerat, aliquam dolor quis, laoreet sem. Ut dui libero, varius non maximus in, ornare id neque. Mauris facilisis varius purus eget placerat. Sed finibus ullamcorper dolor non congue. Etiam ultricies suscipit neque eget imperdiet. Maecenas eleifend sem viverra velit feugiat auctor. "
+    },
+    {
+        "id": "2",
+        "stock": "5",
+        "categoria":"apple",
+        "nombre": "MacBook Air",
+        "modelo": "Chip M2",
+        "calificacion": "9/10",
+        "valor": "U$S 600",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_708839-MLA51356236557_082022-O.webp",
+        "reseña": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce elementum rhoncus dui, in ultrices dolor tincidunt a. Phasellus consectetur sed nisl sit amet vulputate. Etiam commodo mauris et tellus vestibulum, ut commodo est condimentum. Sed non sem vel neque posuere dignissim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin non dui massa. Cras id mollis dui, nec sollicitudin orci. Donec id sem placerat, aliquam dolor quis, laoreet sem. Ut dui libero, varius non maximus in, ornare id neque. Mauris facilisis varius purus eget placerat. Sed finibus ullamcorper dolor non congue. Etiam ultricies suscipit neque eget imperdiet. Maecenas eleifend sem viverra velit feugiat auctor. "
+    },
+    {
+        "id": "3",
+        "stock": "9",
+        "categoria":"apple",
+        "nombre": "MacBook Air",
+        "modelo": "Chip M1",
+        "calificacion": "8/10",
+        "valor": "U$S 599",
+        "img": "https://d391ci4kxgasl8.cloudfront.net/fit-in/524x480/filters:fill(FFFFFF):quality(90):format(webp)/_img_productos/mackbook-pro-mwp52e-a-foto1-.jpg",
+        "reseña":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce elementum rhoncus dui, in ultrices dolor tincidunt a. Phasellus consectetur sed nisl sit amet vulputate. Etiam commodo mauris et tellus vestibulum, ut commodo est condimentum. Sed non sem vel neque posuere dignissim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin non dui massa. Cras id mollis dui, nec sollicitudin orci. Donec id sem placerat, aliquam dolor quis, laoreet sem. Ut dui libero, varius non maximus in, ornare id neque. Mauris facilisis varius purus eget placerat. Sed finibus ullamcorper dolor non congue. Etiam ultricies suscipit neque eget imperdiet. Maecenas eleifend sem viverra velit feugiat auctor. "
+    },
+    {
+        "id": "4",
+        "stock": "7",
+        "categoria":"asus",
+        "nombre": "ASUS Vivobook ",
+        "modelo": "Pro 15 OLED",
+        "calificacion": "10/10",
+        "valor": "U$S 700",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_626465-MLU51991610184_102022-O.webp",
+        "reseña":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce elementum rhoncus dui, in ultrices dolor tincidunt a. Phasellus consectetur sed nisl sit amet vulputate. Etiam commodo mauris et tellus vestibulum, ut commodo est condimentum. Sed non sem vel neque posuere dignissim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin non dui massa. Cras id mollis dui, nec sollicitudin orci. Donec id sem placerat, aliquam dolor quis, laoreet sem. Ut dui libero, varius non maximus in, ornare id neque. Mauris facilisis varius purus eget placerat. Sed finibus ullamcorper dolor non congue. Etiam ultricies suscipit neque eget imperdiet. Maecenas eleifend sem viverra velit feugiat auctor. "
+    },
+    {
+        "id": "5",
+        "stock": "4",
+        "categoria":"asus",
+        "nombre": "ASUS TUF",
+        "modelo": "TUF Gaming F17",
+        "calificacion": "9/10",
+        "valor": "U$S 579",
+        "img": "https://d391ci4kxgasl8.cloudfront.net/fit-in/524x480/filters:fill(FFFFFF):quality(90):format(webp)/_img_productos/notebook-asus-gamer-fx506lhb-hn323w-foto1.jpg",
+        "reseña": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce elementum rhoncus dui, in ultrices dolor tincidunt a. Phasellus consectetur sed nisl sit amet vulputate. Etiam commodo mauris et tellus vestibulum, ut commodo est condimentum. Sed non sem vel neque posuere dignissim. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin non dui massa. Cras id mollis dui, nec sollicitudin orci. Donec id sem placerat, aliquam dolor quis, laoreet sem. Ut dui libero, varius non maximus in, ornare id neque. Mauris facilisis varius purus eget placerat. Sed finibus ullamcorper dolor non congue. Etiam ultricies suscipit neque eget imperdiet. Maecenas eleifend sem viverra velit feugiat auctor. "
+    }
+]
